@@ -1,0 +1,38 @@
+body {
+    background-color:  hsl(212, 45%, 89%)
+}
+
+section {
+    
+    width:310px;
+    margin: auto;
+    text-align: center;
+    padding: 18px;
+    position: relative;
+    top: 180px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+}
+section img{
+    height: 310px;
+    border-radius: 20px;
+}
+
+p:first-of-type {
+    font-family: 'Outfit', sans-serif;
+    font-size: 22px; 
+    color: black;
+}
+p {
+    font-family: 'Outfit', sans-serif;
+    color: rgba(0, 0, 0, 0.424);
+}
+
+.attribution { 
+    font-size: 11px; text-align: center;
+    position: relative;
+    bottom: -200px;
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); }
